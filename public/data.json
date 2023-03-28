@@ -1,0 +1,43 @@
+[
+    {
+      "movieName": "The Dark Knight",
+      "watchTime": 152,
+      "description": "Gotham's protector battles the Joker's chaos.",
+      "poster": "https://c8.alamy.com/comp/C2WJYB/the-dark-knight-poster-display-at-the-arclight-theater-los-angeles-C2WJYB.jpg",
+      "category": "Action/Crime",
+      "imdbRating": 9.0
+    },
+    {
+      "movieName": "The Shawshank Redemption",
+      "watchTime": 142,
+      "description": "Wrongfully imprisoned men bond over time.",
+      "poster": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71JxA6I+sgL._AC_SL1000_.jpg",
+      "category": "Drama",
+      "imdbRating": 9.3
+    },
+    {
+      "movieName": "Inception",
+      "watchTime": 148,
+      "description": "Dream thieves venture into a man's subconscious.",
+      "poster": "https://images-na.ssl-images-amazon.com/images/I/71RotCbGTML._AC_UL600_SR600,600_.jpg",
+      "category": "Action/Sci-Fi",
+      "imdbRating": 8.8
+    },
+    {
+      "movieName": "Forrest Gump",
+      "watchTime": 142,
+      "description": "Simple man becomes unwitting participant in historic events.",
+      "poster": "https://i.ebayimg.com/images/g/j1gAAOSw52xiN6k8/s-l500.jpg",
+      "category": "Drama/Comedy",
+      "imdbRating": 8.8
+    },
+    {
+      "movieName": "The Godfather",
+      "watchTime": 175,
+      "description": "Mafia family fights for control of organized crime.",
+      "poster": "https://i.ebayimg.com/images/g/dM0AAOSw82Bik6XS/s-l500.jpg",
+      "category": "Crime/Drama",
+      "imdbRating": 9.2
+    }
+  ]
+  
